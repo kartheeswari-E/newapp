@@ -1,0 +1,13 @@
+.login-container{
+    width:50%;
+   margin-left: 25%;
+   margin-right: 25%;
+}
+.adjust{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+.text{
+    width:500px;
+}
